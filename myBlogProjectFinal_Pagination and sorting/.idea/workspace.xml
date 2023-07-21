@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="400bd5b2-187a-4d22-96cc-fd5acbcfbe10" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Bot_project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaProjects/ATM/ATM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaProjects/Bot_project/Bot_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaProjects/Calculator/Calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaProjects/Calculator_Project/Calculator_Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaProjects/Introduction_to_OOP/Introduction_to_OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaProjects/JavaProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaProjects/Mortgage calculator Project/Mortgage calculator Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaProjects/OnlineShopping/OnlineShopping.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaProjects/Project/Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaProjects/TESTamogo/TESTamogo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaProjects/Task 1/Task 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaProjects/Task 2/Task 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaProjects/Task 2b/Task 2b.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaProjects/Test 2/Test 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaProjects/Udemy Tutorial/Udemy Tutorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaProjects/helloworld/helloworld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaProjects/task2c/task2c.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaProjects/task2d/task2d.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaProjects/test/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaProjects/testEnvironment/testEnvironment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaProjects/testtt/testtt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Refresher/Refresher.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../User_Profile/src/main/java/com/example/User_Profile/dto/UserDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-example/Practice/Practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ATM/ATM.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bot_project/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bot_project/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bot_project/Bot_project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Calculator/Calculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Calculator_Project/Calculator_Project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fresh/.yo-rc.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Fresh/.yo-rc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fresh/src/main/resources/config/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Fresh/src/main/resources/config/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fresh/src/main/resources/config/liquibase/master.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Fresh/src/main/resources/config/liquibase/master.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Introduction_to_OOP/Introduction_to_OOP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mortgage calculator Project/Mortgage calculator Project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlineShopping/OnlineShopping.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/Project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TESTamogo/TESTamogo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task 1/Task 1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task 2/Task 2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task 2b/Task 2b.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test 2/Test 2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Udemy Tutorial/Udemy Tutorial.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helloworld/helloworld.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2c/task2c.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2d/task2d.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../testEnvironment/testEnvironment.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../testtt/testtt.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2SgboX3ygUwWPS6bokTLBB8G19d" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "spring.configuration.checksum": "3f8e508b97a4b5e30ae9d7d3fe409dd6"
+  }
+}]]></component>
+  <component name="RunManager" selected="Spring Boot.MyBlogFinalProjectApplication">
+    <configuration name="MyBlogFinalProjectApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="myBlogProjectFinal_Pagination and sorting" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ogbonnaya.myBlogProjectFinal.MyBlogFinalProjectApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyBlogFinalProjectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <module name="myBlogProjectFinal_Pagination and sorting" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ogbonnaya.myBlogProjectFinal.MyBlogFinalProjectApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="400bd5b2-187a-4d22-96cc-fd5acbcfbe10" name="Changes" comment="" />
+      <created>1689571353278</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689571353278</updated>
+      <workItem from="1689571354731" duration="8972000" />
+      <workItem from="1689584228227" duration="10299000" />
+      <workItem from="1689670368636" duration="1607000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+package com.ogbonnaya.myBlogProjectFinal.repository;
+
+import com.ogbonnaya.myBlogProjectFinal.entity.Post;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+
+public interface PostRepository extends JpaRepository<Post, Long> {
+}
